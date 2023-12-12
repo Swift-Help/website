@@ -1,0 +1,73 @@
+[
+    {
+      "UserID": 1,
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Email": "john.doe@email.com",
+      "PhoneNumber": "123-456-7890",
+      "Address": "123 Main St",
+      "BloodType": "A+",
+      "MedicalHistory": "None",
+      "Availability": "Weekends",
+      "Consent": true,
+      "CreatedAt": "2023-01-01 08:00:00",
+      "UpdatedAt": "2023-01-01 12:30:00"
+    },
+    {
+      "UserID": 2,
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "Email": "jane.smith@email.com",
+      "PhoneNumber": "234-567-8901",
+      "Address": "456 Oak Ave",
+      "BloodType": "B-",
+      "MedicalHistory": "Allergies to penicil",
+      "Availability": "Evenings",
+      "Consent": true,
+      "CreatedAt": "2023-02-15 10:45:00",
+      "UpdatedAt": "2023-02-18 15:20:00"
+    },
+    {
+      "UserID": 3,
+      "FirstName": "Alex",
+      "LastName": "Johnson",
+      "Email": "alex.j@email.com",
+      "PhoneNumber": "345-678-9012",
+      "Address": "789 Pine Rd",
+      "BloodType": "O+",
+      "MedicalHistory": "Hypertension",
+      "Availability": "Anytime",
+      "Consent": true,
+      "CreatedAt": "2023-03-22 14:10:00",
+      "UpdatedAt": "2023-03-23 09:45:00"
+    },
+    {
+      "UserID": 4,
+      "FirstName": "Emily",
+      "LastName": "Davis",
+      "Email": "emily.d@email.com",
+      "PhoneNumber": "456-789-0123",
+      "Address": "101 Elm Blvd",
+      "BloodType": "AB-",
+      "MedicalHistory": "None",
+      "Availability": "Weekdays",
+      "Consent": true,
+      "CreatedAt": "2023-04-05 09:30:00",
+      "UpdatedAt": "2023-04-07 17:15:00"
+    },
+    {
+      "UserID": 5,
+      "FirstName": "Michael",
+      "LastName": "Thompson",
+      "Email": "michael.t@email.com",
+      "PhoneNumber": "567-890-1234",
+      "Address": "202 Maple Lane",
+      "BloodType": "A-",
+      "MedicalHistory": "Asthma",
+      "Availability": "Weekends",
+      "Consent": true,
+      "CreatedAt": "2023-05-10 12:20:00",
+      "UpdatedAt": "2023-05-12 08:40:00"
+    }
+  ]
+  
